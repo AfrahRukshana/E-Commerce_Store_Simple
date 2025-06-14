@@ -12,14 +12,14 @@ HTML
 
 Home Page
 
--Hero banner and featured products section
+    -Hero banner and featured products section
 
--Displays product images, names, prices, and brief descriptions
+    -Displays product images, names, prices, and brief descriptions
 
 Registration Page
 
-Form fields for name, email, password.
+    -Form fields for name, email, password.
 
 Login Page
 
-Form fields for email and password.
+    -Form fields for email and password.
